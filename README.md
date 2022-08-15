@@ -1,1 +1,1 @@
-# Waste-Classification
+# Waste-Classification using Convolutional Neural Networks
